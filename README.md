@@ -1,2 +1,3 @@
-# torture-log
-Torture log, in my own words.
+# Torture log
+
+These are my own words, unedited.
